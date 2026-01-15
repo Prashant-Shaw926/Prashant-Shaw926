@@ -22,10 +22,13 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/prashantshaw-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prashantshaw-" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@prashant_shaw926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@prashant_shaw926" height="30" width="40" /></a>
+<a href="https://instagram.com/originalprashant_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="originalprashant_" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/prashantshaw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prashantshaw" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/prashant_shaw926" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prashant_shaw926" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/prashantshaw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="prashantshaw" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/j0wlnwdriy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="j0wlnwdriy" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/prashantolmp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="prashantolmp" height="30" width="40" /></a>
-<a href="https://discord.gg/652923995779366931" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="652923995779366931" height="30" width="40" /></a>
+<a href="https://discord.gg/PnKtqNatYh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="PnKtqNatYh" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
